@@ -33,7 +33,6 @@ jobs:
       - name: Deploy to EB
         uses: einaregilsson/beanstalk-deploy@v14
         with:
-					# Input the credentials you used to setup AWS CLI and credentials for the application environment
           aws_access_key: AKIASS6CXF77XUMQPALI
           aws_secret_key: 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
           application_name: notas
