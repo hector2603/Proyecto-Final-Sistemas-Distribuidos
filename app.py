@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-  return 'Hello, Docker!'
+  return 'Service up'
 
 @app.route('/teacher', methods=['POST'])
 def add_teacher():
