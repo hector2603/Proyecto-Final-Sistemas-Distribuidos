@@ -1,4 +1,4 @@
-HOST_DB1 = "notas-aws.cvjcytn72njy.us-east-1.rds.amazonaws.com"
+HOST_DB1 = "notas-aws.czcyjxhcmrzu.us-east-1.rds.amazonaws.com"
 HOST_DB2 = "notasazure.mysql.database.azure.com"
 USER_DB1 = "notasroot"
 USER_DB2 = "notasroot@notasazure"
